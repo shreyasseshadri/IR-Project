@@ -2,8 +2,8 @@
 
 
 There are two drive folders consisting of two implementations
-- Supervised-Bidaf  [link](https://drive.google.com/drive/folders/1Muk4479jud5q6t1QnWQ3jyJcdavgBVsm?usp=sharing)
-- Unsuperised-Word2vec+cosine similarity  [link](https://drive.google.com/drive/folders/1B2atatBhjQ1VQzPj1wqUHPm1L4c44nGb?usp=sharing)
+- Supervised- Bidaf  [link](https://drive.google.com/drive/folders/1Muk4479jud5q6t1QnWQ3jyJcdavgBVsm?usp=sharing)
+- Unsuperised- Word2vec+cosine similarity  [link](https://drive.google.com/drive/folders/1B2atatBhjQ1VQzPj1wqUHPm1L4c44nGb?usp=sharing)
 
 ## Instructions
 
